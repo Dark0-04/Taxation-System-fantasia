@@ -18,8 +18,8 @@
             {
                 "name": "Infrastructuring",
                 "uniques": [
-                        "[+5]% Production when constructing [All] buildings [in all cities]",
-                    "[+1 Production] per every [10] [Gold] <when above [50] [Taxation(%)]>"
+                    "[+1 Production] per every [10] [Gold] <when above [50] [Taxation(%)]>",
+                        "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 1

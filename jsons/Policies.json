@@ -10,8 +10,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "[Culture] cost of purchasing [+10% Tax] buildings [-90]%",
-            "[Culture] cost of purchasing [-10% Tax] buildings [-90]%",
+            "[Culture] cost of purchasing [+10% Tax] buildings [-80]%",
+            "[Culture] cost of purchasing [-10% Tax] buildings [-80]%",
             "[+1 Happiness] per [2] social policies adopted"
         ],
         "policies": [
@@ -27,7 +27,7 @@
             {
                 "name": "Political Philosophy",
                 "uniques": [
-                    "[+2 Culture] per [1] social policies adopted"
+                    "[+1 Culture] per [2] social policies adopted"
                 ],
                 "row": 1,
                 "column": 3

@@ -18,7 +18,7 @@
             {
                 "name": "Infrastructuring",
                 "uniques": [
-                    "[+1 Production] per every [10] [Gold] <when above [50] [Taxation(%)]>",
+                    "[+1 Production] per every [10] [Gold] <when above [40] [Taxation(%)]>",
                         "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
@@ -38,8 +38,8 @@
                         "[+1 Happiness] <when below [10] [Taxation(%)]>",
                         "[+1 Happiness] <when below [20] [Taxation(%)]>",
                     "[+1 Happiness] <when below [30] [Taxation(%)]>",
-                        "[+1 Happiness] <when below [40] [Taxation(%)]>",
-                        "[+1 Happiness] <when below [50] [Taxation(%)]>"
+                        "[+1 Happiness] <when below [40] [Taxation(%)]>"// ,
+                        // "[+1 Happiness] <when below [50] [Taxation(%)]>"
                 ],
                 "row": 1,
                 "column": 5

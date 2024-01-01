@@ -10,8 +10,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "[Culture] cost of purchasing [+10% Tax] buildings [-50]%",
-            "[Culture] cost of purchasing [-10% Tax] buildings [-50]%",
+            "[Culture] cost of purchasing [+10% Tax] buildings [-5]%",
+            "[Culture] cost of purchasing [-10% Tax] buildings [-5]%",
             "[+1 Happiness] per [2] social policies adopted"
         ],
         "policies": [

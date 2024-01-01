@@ -10,8 +10,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "[+1 Happiness] [in all cities]",
+            "[+1 Happiness] per [2] social policies adopted"
         ],
         "policies": [
             {

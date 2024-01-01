@@ -2,6 +2,6 @@
         {
                 "name": "Taxation(%)",
 		"resourceType": "Strategic",
-		"uniques": ["Excluded from map editor","Cannot be traded"],
+		"uniques": ["Stockpiled","Excluded from map editor","Cannot be traded"],
         }
 ]

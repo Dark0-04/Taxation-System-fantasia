@@ -5,9 +5,9 @@
         "priorities": {
             "Neutral": 0,
             "Cultural": 10,
-            "Diplomatic": 0,
+            "Diplomatic": 10,
             "Domination": 0,
-            "Scientific": 10
+            "Scientific": 0
         },
         "uniques": [
             "[+3 Culture] [in capital]",
@@ -53,7 +53,7 @@
                         "[+10]% [Culture] <after adopting [Theocracy]>",
                         "[+40]% [Culture] <after adopting [Democracy]>",
                         "[+20]% [Culture] <after adopting [Militarism]>",
-                        "[+20]% [Culture] <after adopting [Facism]>",
+                        "[+20]% [Culture] <after adopting [Fascism]>",
                         "[+20]% [Culture] <after adopting [Socialism]>",
                         "[+20]% [Culture] <after adopting [Communism]>"
                 ],

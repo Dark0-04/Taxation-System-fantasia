@@ -1,10 +1,10 @@
 [
         {
                 "name": "+10% Tax",
-                "uniques": ["Rise Tax","[+1 Gold] per every [10] [Gold]","[+10]% Unhappiness from [Population] [in all cities]","[+10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users>","[+1 Gold] per every [10] [Gold] <for [9999] turns> <hidden from users>","Remove [+10% Tax] [in this city] <hidden from users>","Can only be built [in capital] <hidden from users>"]
+                "uniques": ["Rise Tax","Provides [10] [Taxation(%)]","[+1 Gold] per every [10] [Gold]","[+10]% Unhappiness from [Population] [in all cities]","[+10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users>","[+1 Gold] per every [10] [Gold] <for [9999] turns> <hidden from users>","Remove [+10% Tax] [in this city] <hidden from users>","Can only be built [in capital] <hidden from users>"]
         },
         {
                 "name": "-10% Tax",
-                "uniques": ["Down Tax","[-1 Gold] per every [10] [Gold]","[-10]% Unhappiness from [Population] [in all cities]","[+10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users>","[+1 Gold] per every [10] [Gold] <for [9999] turns> <hidden from users>","Remove [-10% Tax] [in this city] <hidden from users>","Can only be built [in capital] <hidden from users>"]
+                "uniques": ["Down Tax","Consumes [10] [Taxation(%)]","[-1 Gold] per every [10] [Gold]","[-10]% Unhappiness from [Population] [in all cities]","[+10]% Unhappiness from [Population] [in all cities] <for [9999] turns> <hidden from users>","[+1 Gold] per every [10] [Gold] <for [9999] turns> <hidden from users>","Remove [-10% Tax] [in this city] <hidden from users>","Can only be built [in capital] <hidden from users>"]
         }
 ]

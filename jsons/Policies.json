@@ -1,0 +1,81 @@
+[
+    {
+        "name": "Governance",
+        "era": "Classical era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 10
+        },
+        "uniques": [
+            "[+3 Culture] [in capital]",
+            "[-25]% Culture cost of natural border growth [in all cities]"
+        ],
+        "policies": [
+            {
+                "name": "Infrastructuring",
+                "uniques": [
+                        "[+5]% Production when constructing [All] buildings [in all cities]",
+                    "[+1 Production] per every [10] [Gold] <when above [50] [Taxation(%)]>"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Political Philosophy",
+                "uniques": [
+                    "[+2 Culture] per [1] social policies adopted"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Taxation Politics",
+                "uniques": [
+                        "[+1 Happiness] <when below [10] [Taxation(%)]>",
+                        "[+1 Happiness] <when below [20] [Taxation(%)]>",
+                    "[+1 Happiness] <when below [30] [Taxation(%)]>",
+                        "[+1 Happiness] <when below [40] [Taxation(%)]>",
+                        "[+1 Happiness] <when below [50] [Taxation(%)]>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Political Science",
+                "uniques": [
+                    "[+10]% [Culture] <after adopting [Monarchy]>",
+                        "[+10]% [Culture] <after adopting [Aristocracy]>",
+                        "[+10]% [Culture] <after adopting [Oligarchy]>",
+                        "[+10]% [Culture] <after adopting [Republic]>",
+                        "[+10]% [Culture] <after adopting [Theocracy]>",
+                        "[+40]% [Culture] <after adopting [Democracy]>",
+                        "[+20]% [Culture] <after adopting [Militarism]>",
+                        "[+20]% [Culture] <after adopting [Facism]>",
+                        "[+20]% [Culture] <after adopting [Socialism]>",
+                        "[+20]% [Culture] <after adopting [Communism]>"
+                ],
+                "requires": ["Political Philosophy"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "High Welfare Burden",
+                "uniques": [
+                    "The change in happiness from the next tax change will be halved."
+                ],
+                "requires": ["Taxation Politics"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Governance Complete",
+                "uniques": [
+                    "[75]% of excess happiness converted to [Gold]"
+                ]
+            }
+        ]
+    }
+]

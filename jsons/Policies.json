@@ -18,7 +18,7 @@
             {
                 "name": "Infrastructuring",
                 "uniques": [
-                    "[+1 Production] per every [10] [Gold] <when above [40] [Taxation(%)]>",
+                    "[+3 Production] [in all cities] <when above [40] [Taxation(%)]>",
                         "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
@@ -47,16 +47,13 @@
             {
                 "name": "Political Science",
                 "uniques": [
-                    "[+10]% [Culture] <after adopting [Monarchy]>",
-                        "[+10]% [Culture] <after adopting [Aristocracy]>",
-                        "[+10]% [Culture] <after adopting [Oligarchy]>",
-                        "[+10]% [Culture] <after adopting [Republic]>",
-                        "[+10]% [Culture] <after adopting [Theocracy]>",
-                        "[+40]% [Culture] <after adopting [Democracy]>",
-                        "[+20]% [Culture] <after adopting [Militarism]>",
-                        "[+20]% [Culture] <after adopting [Fascism]>",
-                        "[+20]% [Culture] <after adopting [Socialism]>",
-                        "[+20]% [Culture] <after adopting [Communism]>"
+                    "[+5]% [Culture] <after adopting [Monarchy]>",
+                        "[+5]% [Culture] <after adopting [Oligarchy]>",
+                        "[+5]% [Culture] <after adopting [Republic]>",
+                        "[+5]% [Culture] <after adopting [Theocracy]>",
+                        "[+20]% [Science] <after adopting [Democracy]>",
+                        "[+20]% [Science] <after adopting [Fascism]>",
+                        "[+20]% [Science] <after adopting [Communism]>"
                 ],
                 "requires": ["Political Philosophy"],
                 "row": 2,

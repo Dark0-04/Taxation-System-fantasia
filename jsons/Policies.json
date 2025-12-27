@@ -52,8 +52,7 @@
                         "[+5]% [Culture] <after adopting [Republic]>",
                         "[+5]% [Culture] <after adopting [Theocracy]>",
                         "[+20]% [Science] <after adopting [Democracy]>",
-                        "[+20]% [Science] <after adopting [Fascism]>",
-                        "[+20]% [Science] <after adopting [Communism]>"
+                        "[+20]% [Science] <after adopting [Fascism]>"
                 ],
                 "requires": ["Political Philosophy"],
                 "row": 2,
